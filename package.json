@@ -1,0 +1,19 @@
+{
+  "name": "project_1",
+  "version": "1.0.0",
+  "description": "Complete HTML CSS Nodejs And MySQL project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "swapnil",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "hbs": "^4.2.0",
+    "mysql": "^2.18.1"
+  }
+}
