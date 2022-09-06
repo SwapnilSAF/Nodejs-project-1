@@ -1,7 +1,7 @@
 const express = require("express");
 const app = express();
 const port =7000
-//Added to Git repo
+
 //database connectivity
 const mysql = require("./connection").con
 
