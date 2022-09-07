@@ -17,8 +17,6 @@ app.set("views", "./view"); //to locate the path of view directory
 //providing knowledge about css to express
 app.use(express.static(__dirname+ "/public"));
 
-//app.use(express.urlencoded())
-//app.use(express.json())
 
 //Routing
  app.get("/",(req,res)=>{
